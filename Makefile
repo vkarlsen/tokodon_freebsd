@@ -2,7 +2,7 @@ PORTNAME=	tokodon
 DISTVERSIONPREFIX=	v
 DISTVERSION=	23.01.0
 CATEGORIES=	net-im kde kde-applications
-MASTER_SITES=	https://invent.kde.org/network/${PORTNAME}/-/archive/${DISTVERSION_PREFIX}${DISTVERSION}/
+MASTER_SITES=	KDE/stable/${PORTNAME}/${PORTVERSION}
 
 MAINTAINER=	vidar@karlsen.tech
 COMMENT=	KDE mastodon client
